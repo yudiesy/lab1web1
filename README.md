@@ -2,6 +2,6 @@
 ## belajar tag dasar html
 
 ### membuat pargraf
-kode tag untuk membuat paragraf adalah '<p>'
+kode tag untuk membuat paragraf adalah '< p>'
 ini adalah tampilannya
-![img]screenshot/ss1.png
+![gambar 1](screenshot/ss1.png)
